@@ -284,3 +284,5 @@ poll("https://api.mta.info/...vehicle-positions", interval_s=30, out_path=Path("
 <!-- m 2023-11-03T22:47:00-06:00 -->
 
 <!-- m 2025-05-03T20:03:00-06:00 -->
+
+<!-- m 2025-08-20T23:39:00-06:00 -->
