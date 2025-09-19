@@ -30,3 +30,5 @@ poll("https://api.mta.info/...vehicle-positions", interval_s=30, out_path=Path("
 <!-- maint 2025-07-03 -->
 
 <!-- maint 2025-08-10 -->
+
+<!-- maint 2025-09-19 -->
